@@ -1,0 +1,11 @@
+
+i
+java:S2095	"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ìƒÉÊ8­–Óö0
+k
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ñíÏöşÿÿÿÿ8ÿî¥Óö0
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(¿¨˜8°–Óö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¢Ü÷Úøÿÿÿÿ8ˆ”—Óö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­’Óşûÿÿÿÿ8…ï¥Óö0
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8é¤–Óö0

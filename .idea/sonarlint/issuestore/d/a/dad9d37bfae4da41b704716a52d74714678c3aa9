@@ -1,0 +1,12 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "instance".(¶€­Ó8¬‰îö†0
+T
+java:S1854"7Remove this useless assignment to local variable "key".(”µ‰†8¬‰îö†0
+J
+java:S1481"-Remove this unused "instance" local variable.(¶€­Ó8®‰îö†0
+E
+java:S1481"(Remove this unused "key" local variable.(”µ‰†8®‰îö†0
+X	java:S125"<This block of commented-out lines of code should be removed.(ªë¯©8°‰îö†0
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8°‰îö†0

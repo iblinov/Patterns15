@@ -1,0 +1,13 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÁÆèýÿÿÿÿ
+m	java:S116"SRename this field "MAX_HEAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç´ñïøÿÿÿÿ
+m	java:S116"SRename this field "MIN_HEAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Éýáùÿÿÿÿ
+j	java:S116"URename this field "MAX_DAMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö—„ø
+o	java:S116"URename this field "MIN_DAMAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØŸ¡Åúÿÿÿÿ
+p	java:S116"VRename this field "MAX_DEFENCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àßŒ¯ÿÿÿÿÿ
+j	java:S116	"VRename this field "MIN_DEFENCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÉ¨	
