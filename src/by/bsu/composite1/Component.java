@@ -1,4 +1,4 @@
-package by.epam.pattern.composite;
+package by.bsu.composite1;
 
 public interface Component {
   Component add(Component component);

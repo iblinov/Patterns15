@@ -1,8 +1,12 @@
 package by.epam.pattern.chainofresponsibility;
 
+import by.bsu.composite2.TextComposite;
+
+import java.time.Instant;
 import java.util.List;
 
 public class TextParserPrimitive {
+    private TextComposite composite;
     // req_ex -> for paragraph
     public void parseText(String text){
         ///
@@ -11,6 +15,7 @@ public class TextParserPrimitive {
         parseParagraph("");
         //}
         //
+        System.out.println();
     }
     private void parseParagraph(String paragraph){
         ///
@@ -18,7 +23,6 @@ public class TextParserPrimitive {
       //  for (int i = 0; i < ; i++) {
         parseSentence("");
       //  }
-
     }
     private void parseSentence(String sentence){
         ///

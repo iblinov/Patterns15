@@ -1,19 +1,19 @@
-package by.epam.pattern.composite;
+package by.bsu.composite1;
 
+public class Dwarf extends Unit {
+  private static final int MIN_DAMAGE = 5;
+  private static final int MAX_DAMAGE = 5;
+  private int arrowResistence = 4;
 
-public class Elf extends Unit {
-  private static final int MIN_DAMAGE = 10;
-  private static final int MAX_DAMAGE = 10;
-  private boolean doubleShot;
-
-  public Elf() {
+  public Dwarf() {
     setMinDamage(MIN_DAMAGE);
     setMaxDamage(MAX_DAMAGE);
   }
 
   @Override
   public Component add(Component component) {
-    return this;
+    throw new UnsupportedOperationException();
+  //  return false;
   }
 
   @Override

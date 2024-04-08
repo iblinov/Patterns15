@@ -1,4 +1,4 @@
-package by.epam.pattern.composite;
+package by.bsu.composite1;
 
 public abstract class Unit implements Component{
     private String name;

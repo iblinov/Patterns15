@@ -15,6 +15,9 @@ public class Student implements Serializable {
         this.password = password;
     }
 
+    public Student() {
+    }
+
     public int getId() {
         return id;
     }
