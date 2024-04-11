@@ -8,6 +8,9 @@ public class Code implements ProjectComponent {
     private long hoursRequired;
     private boolean done;
 
+    public Code() {
+    }
+
     public Code(long codeId, long hoursRequired, CodeType type) {
         this.codeId = codeId;
         this.hoursRequired = hoursRequired;

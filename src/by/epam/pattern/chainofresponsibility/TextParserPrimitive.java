@@ -10,11 +10,11 @@ public class TextParserPrimitive {
     // req_ex -> for paragraph
     public void parseText(String text){
         ///
-        List<String> paragraphs ;
+        List<String> paragraphs;
         //for (int i = 0; i < ; i++){
         parseParagraph("");
         //}
-        //
+
         System.out.println();
     }
     private void parseParagraph(String paragraph){

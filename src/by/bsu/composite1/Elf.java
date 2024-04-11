@@ -2,7 +2,7 @@ package by.bsu.composite1;
 
 
 public class Elf extends Unit {
-  private static final int MIN_DAMAGE = 10;
+  private static final int MIN_DAMAGE = 8;
   private static final int MAX_DAMAGE = 10;
   private boolean doubleShot;
 

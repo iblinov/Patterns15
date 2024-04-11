@@ -1,4 +1,4 @@
-package by.epam.pattern.chainofresponsibility.chaintext;
+package by.epam.pattern.chaintext;
 
 import by.bsu.composite2.TextComposite;
 

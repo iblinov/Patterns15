@@ -2,13 +2,11 @@ package by.epam.pattern.chainofresponsibility;
 
 public class SecondHandler extends AbstractHandler {
 
-    public SecondHandler(AbstractHandler successor) {
-        this.successor = successor;
-    }
-
     @Override
     public void handleRequest() {
-        //
+        System.out.println("SecondHandler action");
+        //action
+        //action 2
         successor.handleRequest();
     }
 }

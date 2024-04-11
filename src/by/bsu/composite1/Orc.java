@@ -1,11 +1,11 @@
 package by.bsu.composite1;
 
-public class Dwarf extends Unit {
+public class Orc extends Unit {
   private static final int MIN_DAMAGE = 5;
-  private static final int MAX_DAMAGE = 5;
+  private static final int MAX_DAMAGE = 8;
   private int arrowResistence = 4;
 
-  public Dwarf() {
+  public Orc() {
     setMinDamage(MIN_DAMAGE);
     setMaxDamage(MAX_DAMAGE);
   }
