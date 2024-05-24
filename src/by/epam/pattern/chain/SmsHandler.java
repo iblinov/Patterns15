@@ -1,4 +1,4 @@
-package by.bsu.chain;
+package by.epam.pattern.chain;
 
 public class SmsHandler extends AbstractHandler {
     private AbstractHandler successor = new BalanceCheckHandler();

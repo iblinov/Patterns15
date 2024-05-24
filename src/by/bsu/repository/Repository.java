@@ -26,6 +26,23 @@ public class Repository {
   }
 
   public List<Student> query(Specification specification) {
-    throw new UnsupportedOperationException();
+    List<Student> result = new ArrayList<>();
+    for (Student st : students) {
+      if (specification.specify(st)) {
+        result.add(st);
+      }
+    }
+    return result;
+  }
+  public List<Student> queryStream(Specification specification) {
+    List<Student> result = students.stream()
+            .filter(st -> specification.specify(st))
+            .toList();
+            return result;
+  }
+  public List<Student> queryStreamPredicate(SpecificationPredicate specification) {
+         return students.stream()
+                 .filter(specification)
+                 .toList();
   }
 }
